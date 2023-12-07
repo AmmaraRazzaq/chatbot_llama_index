@@ -1,6 +1,6 @@
-llama-index==0.9.12
-pypdf==3.17.1
-chardet==5.2.0
-python-dotenv==1.0.0
-openai
-streamlit
+pip install llama-index==0.9.12
+pip install pypdf==3.17.1
+pip install chardet==5.2.0
+pip install python-dotenv==1.0.0
+pip install openai
+pip install streamlit
