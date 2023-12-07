@@ -1,0 +1,6 @@
+pydf
+chardet
+llama_index
+openai
+streamlit
+python-dotenv
