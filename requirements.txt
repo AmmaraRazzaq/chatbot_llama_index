@@ -1,4 +1,4 @@
-llama_index
+llama_index llama-hub
 pypdf==3.17.1
 chardet==5.2.0
 python-dotenv==1.0.0
