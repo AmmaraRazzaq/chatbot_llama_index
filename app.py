@@ -7,7 +7,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Setting an environment variable
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 def main():
     st.header("Chat with your data")
